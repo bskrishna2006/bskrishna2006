@@ -2,12 +2,6 @@ name: Generate snake animation
 
 on:
   workflow_dispatch:   # Triggered manually by the user
-  push:
-    branches:
-      - main
-  # You can keep the scheduled trigger if you still want it to run periodically
-  # schedule:
-  #   - cron: "* */12 * * *"   # Every 12 hours
 
 jobs:
   generate:
