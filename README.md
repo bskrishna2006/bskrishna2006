@@ -1,4 +1,4 @@
-<p align="left">Hi there 👋<br>I'm Krishna, a second-year engineering student passionate about AI/ML. I love exploring machine learning, deep learning, and while working on innovative projects.<br>Interests 🔥<br>- 🧠 Artificial Intelligence & Machine Learning<br>- 💻 Full-Stack Development<br>- 🤖 Computer Vision & NLP<br>- 🚀 Competitive Coding
+<p align="left">Hi there 👋<br>I'm Krishna, a Third-year Engineering student passionate about AI/ML. I love exploring machine learning, deep learning, and while working on innovative projects.<br>Interests 🔥<br>- 🧠 Artificial Intelligence & Machine Learning<br>- 💻 Backend Development<br>- 🤖 Computer Vision & NLP<br>- 🚀 Competitive Programming
 
 ###
 
