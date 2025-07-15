@@ -1,7 +1,7 @@
 name: Generate snake animation
 
 on:
-  workflow_dispatch:   # Triggered manually by the user
+  workflow_dispatch:
 
 jobs:
   generate:
