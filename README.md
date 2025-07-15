@@ -1,4 +1,4 @@
-<p align="left">Hi there 👋<br>I'm Krishna, a Third-year Engineering student passionate about AI/ML. I love exploring machine learning, deep learning, and while working on innovative projects.<br>Interests 🔥<br>- 🧠 Artificial Intelligence & Machine Learning<br>- 💻 Backend Development<br>- 🤖 Computer Vision & NLP<br>- 🚀 Competitive Programming
+<p align="left">Hi there 👋<br>I'm Krishna, a Third-year Engineering student passionate about AI/ML. I love exploring machine learning, deep learning, and while working on innovative projects.<br>Interests 🔥<br>- 🧠 Artificial Intelligence & Machine Learning<br>- 💻 AI agents<br>- 🤖 NLP<br>- 🚀 Competitive Programming 
 
 ###
 
@@ -40,7 +40,6 @@
 </div>
 
 ###
-
 <div align="left">
   <a href="bskrishna3406@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
