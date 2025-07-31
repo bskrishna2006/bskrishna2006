@@ -51,7 +51,6 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
 ###
 
 <img src="https://raw.githubusercontent.com/bskrishna2006/bskrishna2006/output/snake.svg" alt="Snake animation" />
