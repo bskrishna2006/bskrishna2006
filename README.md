@@ -12,7 +12,6 @@
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtqNHVpMG45N3VqemQ0cWk5bW9na2x4MDBtaGVhdjFsaXp3OXc0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif"  />
 
 ###
-[![trophy](https://github-profile-trophy.vercel.app/?username=bskrishna2006)](https://github.com/ryo-ma/github-profile-trophy)
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
