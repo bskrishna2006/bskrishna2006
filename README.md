@@ -37,7 +37,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
-
+![](https://komarev.com/ghpvc/?username=bskrishna2006&label=PROFILE+VIEWS)
 ###
 <div align="left">
   <a href="bskrishna3406@gmail.com" target="_blank">
