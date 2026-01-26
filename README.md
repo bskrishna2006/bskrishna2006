@@ -27,23 +27,20 @@
 <div align="center">
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bskrishna2006&theme=dracula&hide_border=false" height="160" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=bskrishna2006&theme=dracula&hide_border=false" height="160" />
 
   <br><br>
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bskrishna2006&show_icons=true&theme=dracula&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bskrishna2006&show_icons=true&theme=dracula&hide_border=false&cache_seconds=1800" height="160" />
 
   <br><br>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bskrishna2006&layout=compact&theme=dracula&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bskrishna2006&layout=compact&theme=dracula&hide_border=false&cache_seconds=1800" height="160" />
 
 </div>
 
----
-
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtqNHVpMG45N3VqemQ0cWk5bW9na2x4MDBtaGVhdjFsaXp3OXc0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" />
 
 ### 🛠️ Tech Stack
 
