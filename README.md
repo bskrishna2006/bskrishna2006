@@ -24,22 +24,23 @@
 
 ### 📊 GitHub Stats
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=bskrishna2006&theme=dracula&hide_border=false" height="170" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=bskrishna2006&show_icons=true&theme=dracula&hide_border=false&cache_seconds=1800" height="170" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <div align="center">
-
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=bskrishna2006&theme=dracula&hide_border=false" height="160" />
-
-  <br><br>
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bskrishna2006&show_icons=true&theme=dracula&hide_border=false&cache_seconds=1800" height="160" />
-
-  <br><br>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bskrishna2006&layout=compact&theme=dracula&hide_border=false&cache_seconds=1800" height="160" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bskrishna2006&layout=compact&theme=dracula&hide_border=false&cache_seconds=1800" height="150" />
 </div>
+
 
 
 ### 🛠️ Tech Stack
