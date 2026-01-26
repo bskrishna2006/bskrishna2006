@@ -21,15 +21,17 @@
 </p>
 
 ---
-
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/ZVik7pBtu9dNS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS"></a></p>
 ### 📊 GitHub Stats
 
 <table align="center">
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=bskrishna2006&theme=dracula&hide_border=false" height="170" />
+      <!-- GitHub Streak (Fixed) -->
+      <img src="https://streak-stats.demolab.com?user=bskrishna2006&theme=dracula&hide_border=false" height="170" />
     </td>
     <td>
+      <!-- GitHub Stats -->
       <img src="https://github-readme-stats.vercel.app/api?username=bskrishna2006&show_icons=true&theme=dracula&hide_border=false&cache_seconds=1800" height="170" />
     </td>
   </tr>
@@ -38,10 +40,11 @@
 <br>
 
 <div align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bskrishna2006&layout=compact&theme=dracula&hide_border=false&cache_seconds=1800" height="150" />
 </div>
 
-
+---
 
 ### 🛠️ Tech Stack
 
@@ -90,16 +93,19 @@
 
 <div align="left">
 
-  <a href="mailto:bskrishna3406@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+  <!-- Gmail -->
+  <a href="mailto:bskrishna3406@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
 
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/bs-krishna/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
 
+  <!-- Instagram -->
   <a href="https://www.instagram.com/__krishna__314/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
   </a>
 
 </div>
