@@ -1,60 +1,119 @@
-<p align="left">Hi there 👋<br>I'm Krishna, a Third-year Engineering student passionate about AI/ML. I love exploring machine learning, deep learning, and while working on innovative projects.<br>Interests 🔥<br>- 🧠 Artificial Intelligence & Machine Learning<br>- 💻 AI agents<br>- 🤖 NLP<br>- 🚀 Competitive Programming 
+<h2 align="left">Hi there 👋, I'm Krishna</h2>
 
-###
-
-<div align="center"> 
-  <img src="https://streak-stats.demolab.com?user=bskrishna2006&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bskrishna2006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
-</div>
-
-###
- 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtqNHVpMG45N3VqemQ0cWk5bW9na2x4MDBtaGVhdjFsaXp3OXc0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif"  />
-
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
-
-<div align="left">
-  <a href="bskrishna3406@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/bs-krishna/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/__krishna__314/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
-
-<img src="https://raw.githubusercontent.com/bskrishna2006/bskrishna2006/output/snake.svg" alt="Snake animation" />
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=bskrishna2006&label=Profile%20views&color=0e75b6&style=flat" alt="bskrishna2006" /> 
+<p align="left">
+  I'm a third-year engineering student who loves building and exploring things with AI and Machine Learning.<br>
+  I enjoy working on real-world projects, experimenting with new ideas, and constantly improving my technical skills.
 </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bskrishna2006" alt="bskrishna2006" /></a> </p> -->
+<p align="left">
+  <b>What I’m interested in:</b><br>
+  🧠 Artificial Intelligence & Machine Learning<br>
+  💻 AI Agents<br>
+  🤖 Natural Language Processing (NLP)<br>
+  🚀 Competitive Programming
+</p>
 
-###
+<p align="left">
+  <b>Currently working on:</b><br>
+  • Machine Learning & Deep Learning projects<br>
+  • AI-powered applications<br>
+  • Strengthening DSA & problem-solving skills
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bskrishna2006&theme=dracula&hide_border=false" height="160" alt="GitHub Streak" />
+
+  <br><br>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=bskrishna2006&show_icons=true&theme=dracula&hide_border=false" height="160" />
+
+  <br><br>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bskrishna2006&layout=compact&theme=dracula&hide_border=false" height="160" />
+
+</div>
+
+---
+
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtqNHVpMG45N3VqemQ0cWk5bW9na2x4MDBtaGVhdjFsaXp3OXc0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" />
+
+### 🛠️ Tech Stack
+
+<div align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" />
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" />
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" />
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" />
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" />
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" />
+
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="left">
+
+  <a href="mailto:bskrishna3406@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/bs-krishna/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+
+  <a href="https://www.instagram.com/__krishna__314/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/bskrishna2006/bskrishna2006/output/snake.svg" alt="Snake animation" />
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bskrishna2006&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
