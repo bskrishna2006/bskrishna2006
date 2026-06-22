@@ -1,7 +1,7 @@
 <h2 align="left">Hi there 👋, I'm Krishna</h2>
 
 <p align="left">
-  I'm a third-year engineering student who loves building and exploring things with AI and Machine Learning.<br>
+  I'm a Final year engineering student and ASE intern @ServiceNow who loves building and exploring things with AI and Machine Learning.<br>
   I enjoy working on real-world projects, experimenting with new ideas, and constantly improving my technical skills.
 </p>
 
