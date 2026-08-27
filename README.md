@@ -25,30 +25,6 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJzMmUyMGh6dm10Zmp1ZjNzY2d0MHNhNWNidGZleDRkbGFwNzZiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="350" />
 </div>
 
-### 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <!-- GitHub Streak (Fixed) -->
-      <img src="https://streak-stats.demolab.com?user=bskrishna2006&theme=dracula&hide_border=false" height="170" />
-    </td>
-    <td>
-      <!-- GitHub Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=bskrishna2006&show_icons=true&theme=dracula&hide_border=false&cache_seconds=1800" height="170" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bskrishna2006&layout=compact&theme=dracula&hide_border=false&cache_seconds=1800" height="150" />
-</div>
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="left">
